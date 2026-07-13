@@ -17,6 +17,10 @@ function App() {
         >
           Learn React
         </a>
+        <h1>kritika</h1>
+        <h2>
+          kamna
+        </h2>
       </header>
     </div>
   );
